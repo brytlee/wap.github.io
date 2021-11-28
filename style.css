@@ -1,0 +1,35 @@
+body{
+  background-color: grey;
+}
+h1{
+  color: rgb(255, 0, 34);font-family: Arial, Helvetica, sans-serif;
+}
+h2{
+  color:rgb(70, 43, 226);
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-weight: 200;
+}
+ol li a{
+  text-decoration: none;
+}
+dt{
+  color: rgb(255, 0, 191); 
+  font-weight: bold;
+}
+a{
+  text-decoration: none;
+}
+.firstcharacter {
+    color: #0c0b0c;
+    font-size: 25px;
+  }
+  h4{ 
+    margin-top: 10px; color:rgb(255, 0, 191); 
+    margin-left: 12px;
+  }
+  .bottom{
+    margin-left: 25px; 
+    color: black; 
+    font-weight: normal; 
+    margin-top: -20px;
+  }
